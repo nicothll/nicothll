@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolas Thuillier, I am self-taught in programming since 6 years.
+- 👀 I’m interested in everything, I am a very curious person but my favorite topics are Technology and Sports.
+- 🌱 I’m currently learning Python, Javascript and React and a bit Cloud Computing.
+- 💞️ I’m looking to collaborate on any projets where I can learn, share and improve my skills.
+- 📫 You can reach me at: nicothll.dev@gmail.com
